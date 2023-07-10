@@ -1,0 +1,39 @@
+h1{
+    background-color: beige;
+    color: rgb(116, 53, 28);
+    font-family: Cambria;
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    background-color: beige;
+    color: rgb(116, 53, 28);
+    font-family: Cambria;
+    font-size: 24px;
+    text-align: center;
+}
+h3{
+    background-color: beige;
+    color: rgb(116, 53, 28);
+    font-family: Cambria;
+    font-size: 18px;
+    margin: 5%;
+}
+.avatar img{
+    position: relative;
+    top: -24px;
+    left: 5%;
+    width: 150px;
+    border-radius: 50%;
+    margin: 2%;
+}
+#ficha{
+    background-color: rgb(241, 224, 203);
+    width: 340px;
+    height: 180px;
+    padding: 22px;
+    box-sizing: border-box;
+    border: 2px solid rgb(116, 53, 28);
+    text-align: justify;
+}
